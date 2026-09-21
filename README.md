@@ -4,4 +4,4 @@
   <img alt="anshuayush-11's GitHub profile" src="dark_mode.svg" />
 </picture>
 
-# Hi there 👋
+# YO HOMIES
